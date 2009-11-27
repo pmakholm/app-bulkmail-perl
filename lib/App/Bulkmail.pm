@@ -63,6 +63,8 @@ Print some extra information on STDOUT (default: no)
 Use this as progress indicator. Default is to try to instantiate
 Term::ProgressBAr if neiter dump, quiet, verbose is set.
 
+=back
+
 =cut
 
 use Any::Moose;
